@@ -152,6 +152,6 @@ For issues, open a GitHub issue or contact the maintainer.
 ---
 ## Contact
 
-email-guptaharsh1969@gmail.com
+email-abhinavsingh912007@gmail.com
 
 ---
